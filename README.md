@@ -1,4 +1,5 @@
-# Personal-Projects
-Personal projects I decided to do because it interests me and wanted to showcase my skills. 
+# Webscraper
 
-I created these programs for educational purposes only.
+Created a webscraper that gets information on graphics cards from newegg.com
+
+Sends information into Excel
